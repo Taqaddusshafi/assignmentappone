@@ -10,10 +10,7 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
-- [Modules Used](#modules-used)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Getting Started
 
